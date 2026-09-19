@@ -1,0 +1,8 @@
+{
+  "flashcards": [
+    {
+      "question": "What would you using an async method returning a Task for",
+      "answer": "In cases where one of the operations within the method is an async call. Such a call can be useful when an operation can free up a thread by being async such as a database call (off CPU)"
+    }
+  ]
+}
